@@ -1,0 +1,6 @@
+classes= 3
+train=data/rgz/rgz_6k.txt
+valid=data/rgz/5k.txt
+names=data/rgz.names
+backup=backup/
+eval=rgz
